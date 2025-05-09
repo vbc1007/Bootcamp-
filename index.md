@@ -42,5 +42,5 @@ Temos a certeza que vai longe!
 
 # Mais sobre mim: 
 
-https://sites.google.com/view/portifolio-vinicius-carneiro?usp=sharing
+- [Google Sites] (https://sites.google.com/view/portifolio-vinicius-carneiro?usp=sharing)
 
